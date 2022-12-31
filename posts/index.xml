@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Welcome to Sakuilims website</title>
+    
+    
+    
+    <link>Sakuilim.github.io/posts/</link>
+    <description>Recent content in Posts on Welcome to Sakuilims website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Dec 2022 16:23:07 +0200</lastBuildDate>
+    
+	<atom:link href="Sakuilim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Different Title</title>
+      <link>Sakuilim.github.io/posts/sakuilim/</link>
+      <pubDate>Sat, 31 Dec 2022 16:23:07 +0200</pubDate>
+      
+      <guid>Sakuilim.github.io/posts/sakuilim/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Some writing on the page
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

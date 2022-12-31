@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>Sakuilim.github.io/posts/sakuilim/</loc>
-    <lastmod>2022-12-31T16:23:07+02:00</lastmod>
+    <loc>Sakuilim.github.io/posts/photo/</loc>
+    <lastmod>2022-12-31T16:35:56+02:00</lastmod>
   </url><url>
     <loc>Sakuilim.github.io/posts/</loc>
-    <lastmod>2022-12-31T16:23:07+02:00</lastmod>
+    <lastmod>2022-12-31T16:35:56+02:00</lastmod>
   </url><url>
     <loc>Sakuilim.github.io/</loc>
+    <lastmod>2022-12-31T16:35:56+02:00</lastmod>
+  </url><url>
+    <loc>Sakuilim.github.io/posts/sakuilim/</loc>
     <lastmod>2022-12-31T16:23:07+02:00</lastmod>
   </url><url>
     <loc>Sakuilim.github.io/categories/</loc>
